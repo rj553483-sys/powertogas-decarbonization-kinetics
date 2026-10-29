@@ -1,19 +1,9 @@
 cff-version: 1.2.0
-message: "If you use this software or manuscript code, please cite it as below."
-title: "Project REGENESIS: Autonomous Multi-Physics Self-Regulation and Thermal-Stress Bounding in High-Temperature Solid-Oxide CO2 Electrolysis and Sabatier Synthesis Loops"
+message: "If you use this software or research, please cite it as below."
 authors:
   - family-names: "Rasmussen"
     given-names: "Jacob James"
-    orcid: "0009-0009-7084-6523"
-    affiliation: "CVTC STEM Division, Chippewa Valley Technical College, Shell Lake, WI, USA"
+    orcid: "https://orcid.org/0009-0009-7084-6523"
+title: "powertogas-decarbonization-kinetics"
 version: "1.0.0"
-date-released: "2026-10-27"
-license: "MIT"
-preferred-citation:
-  type: article
-  authors:
-    - family-names: "Rasmussen"
-      given-names: "Jacob James"
-  title: "Autonomous Multi-Physics Self-Regulation and Thermal-Stress Bounding in High-Temperature Solid-Oxide CO2 Electrolysis and Sabatier Synthesis Loops"
-  journal: "Applied Energy"
-  year: 2026
+date-released: 2026-10-29
