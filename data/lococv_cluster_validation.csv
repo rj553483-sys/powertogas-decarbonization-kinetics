@@ -1,0 +1,6 @@
+Fold,Held_Out_Cluster,Cluster_Description,Max_Re_Lambda,RMSE_Percent,Status
+Fold 1,C1,Low-Temp Operating Regime,-0.1454,1.19,STABLE
+Fold 2,C2,Nominal Baseline Operating Regime,-0.1372,1.36,STABLE
+Fold 3,C3,High-Enthalpy Operating Regime,-0.1325,1.82,STABLE
+Fold 4,C4,Severe Quench Transient Regime,-0.1044,3.47,STABLE
+Fold 5,C5,1000 kg/hr Continuous Scale Regime,-0.1350,1.57,STABLE
